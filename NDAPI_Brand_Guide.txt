@@ -1,0 +1,9 @@
+NDAPI BRAND GUIDE
+Primary green: #087443
+Secondary green: #0b9b57
+Deep green: #063c2a
+Gold: #e1b84c
+Light background: #f5f8f6
+Typography: modern system sans-serif stack
+Tagline: Educate. Prevent. Protect.
+Tone: professional, prevention-focused, respectful, evidence-aware, non-stigmatizing.
